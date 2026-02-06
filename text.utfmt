@@ -1,3 +1,43 @@
+# Unicode Text Formatter Showcase
+
+This file demonstrates all supported styles available in the Unicode Text Formatter.
+
+<bold>Mathematical Bold Style</bold>
+<italic>Mathematical Italic Style</italic>
+<script>Mathematical Script Style</script>
+<doublestruck>Double-struck Mathematical Style</doublestruck>
+<underline>Underlined Text Emphasis</underline>
+<strikethrough>Strikethrough Text</strikethrough>
+<fraktur>Fraktur Gothic Calligraphy</fraktur>
+<bolditalic>Bold Italic Mathematical Style</bolditalic>
+<sansserif>Sans-serif Clean Typography</sansserif>
+<sansserifitalic>Sans-serif Italic Style</sansserifitalic>
+<monospace>Monospaced Code-like Text</monospace>
+<boldscript>Bold Script Calligraphy</boldscript>
+<boldfraktur>Bold Fraktur Gothic</boldfraktur>
+<sansseribbold>Sans-serif Bold Style</sansseribbold>
+<sansserifbolditalic>Sans-serif Bold Italic</sansserifbolditalic>
+<openface>Open-face Double-struck</openface>
+<smallcaps>Small Capital Letters Style</smallcaps>
+
+# Mixed Styles Example
+
+You can combine <italic>multiple styles</italic> in <bold>the same line</bold> like <smallcaps>this example</smallcaps> that shows <underline>various</underline> Unicode <monospace>typographies</monospace>.
+
+# Numeric Examples
+
+<bold>Bold numbers: 1234567890</bold>
+<doublestruck>Double-struck: 1234567890</doublestruck>
+<monospace>Monospace: 1234567890</monospace>
+<underline>Underlined: 1234567890</underline>
+<strikethrough>Strikethrough: 1234567890</strikethrough>
+
+# Programming Example
+
 <monospace>
-printf ("%s %s\n", "hello" "hello");
+function example() {
+    const greeting = "Hello";
+    console.log("${greeting} World!");
+    return <bold>success</bold>;
+}
 </monospace>
